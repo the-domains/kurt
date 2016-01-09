@@ -1,0 +1,28 @@
+name: Kurt
+favicon: null
+layout_spectrum: 0.6549920050892979
+typography_spectrum: 0.561980587663129
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9862961492035538
+  lightness: 0.4940425034146756
+  saturation: 0.7548751158174127
+  rhythmicContrast: 0.8325621907133609
+purpose: []
